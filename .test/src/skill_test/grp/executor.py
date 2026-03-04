@@ -5,8 +5,8 @@ import json
 import re
 import time
 import yaml
-from dataclasses import dataclass, field
-from typing import List, Tuple, Optional, Dict, Any, Callable, Protocol
+from dataclasses import dataclass
+from typing import List, Tuple, Optional, Dict, Any, Protocol
 
 
 @dataclass
